@@ -1,4 +1,7 @@
-.pt
-.ckpt
-.pkl
-.npz
+*.pt
+*.ckpt
+*.pkl
+*.npz
+__pycache__
+.idea
+.gradi
